@@ -1,0 +1,45 @@
+
+> beldex-meet@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.28
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.5:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1455ms
+ ○ Compiling / ...
+ ✓ Compiled / in 779ms (585 modules)
+ GET / 200 in 1102ms
+ ✓ Compiled in 320ms (237 modules)
+ ✓ Compiled /favicon.ico in 181ms (365 modules)
+ GET /favicon.ico 200 in 260ms
+ ✓ Compiled /rooms/[roomName] in 232ms (609 modules)
+ GET /rooms/swift-otter-2625 200 in 614ms
+ GET /favicon.ico 200 in 12ms
+ ✓ Compiled /api/token in 279ms (771 modules)
+ GET /api/token?room=swift-otter-2625&username=TestUser 200 in 342ms
+Local storage is not available.
+ GET / 200 in 319ms
+ GET /rooms/swift-otter-2625 200 in 344ms
+ GET /favicon.ico 200 in 10ms
+ GET / 200 in 40ms
+ GET /favicon.ico 200 in 7ms
+ GET /rooms/lucky-comet-9720 200 in 30ms
+ GET /api/token?room=lucky-comet-9720&username=Bala 200 in 14ms
+ GET /favicon.ico 200 in 20ms
+ GET /favicon.ico 200 in 28ms
+ ✓ Compiled /_not-found in 218ms (776 modules)
+ GET /apple-touch-icon-precomposed.png 404 in 364ms
+ GET /apple-touch-icon.png 404 in 364ms
+Local storage is not available.
+ GET /rooms/lucky-comet-9720 200 in 142ms
+ GET /favicon.ico 200 in 47ms
+ GET /api/token?room=lucky-comet-9720&username=Mani 200 in 53ms
+ GET / 200 in 27ms
+ GET / 200 in 18ms
+Local storage is not available.
+ GET /rooms/swift-otter-2625 200 in 46ms
+ GET /favicon.ico 200 in 7ms
+[?25h

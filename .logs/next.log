@@ -1,0 +1,35 @@
+   ▲ Next.js 15.5.28
+   - Local:        http://localhost:3003
+   - Network:      http://0.0.0.0:3003
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1860ms
+ ○ Compiling / ...
+ ✓ Compiled / in 548ms (571 modules)
+ GET / 200 in 810ms
+ ✓ Compiled /favicon.ico in 142ms (365 modules)
+ GET /favicon.ico 200 in 225ms
+ GET / 200 in 179ms
+ GET /favicon.ico 200 in 6ms
+ GET /favicon.ico 200 in 8ms
+ GET / 200 in 40ms
+ ✓ Compiled /_not-found in 198ms (593 modules)
+ GET /apple-touch-icon-precomposed.png 404 in 322ms
+ GET /apple-touch-icon.png 404 in 23ms
+ GET /favicon.ico 200 in 14ms
+ GET / 200 in 64ms
+ ✓ Compiled /rooms/[roomName] in 274ms (614 modules)
+ GET /rooms/quiet-fox-8094 200 in 914ms
+ ✓ Compiled /api/token in 243ms (776 modules)
+ GET /api/token?room=quiet-fox-8094&username=Bala 200 in 352ms
+ GET / 200 in 44ms
+ GET /rooms/lucky-comet-8176 200 in 41ms
+ GET /api/token?room=lucky-comet-8176&username=Bala 200 in 17ms
+ GET /api/token?room=lucky-comet-8176&username=Mani 200 in 9ms
+ GET / 200 in 19ms
+ GET /rooms/warm-maple-4626 200 in 33ms
+ GET /api/token?room=warm-maple-4626&username=Kumar 200 in 18ms
+ GET /api/token?room=warm-maple-4626&username=Bala 200 in 17ms
+ GET / 200 in 22ms
+[?25h
